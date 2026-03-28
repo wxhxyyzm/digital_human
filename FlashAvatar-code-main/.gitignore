@@ -1,0 +1,12 @@
+dataset
+metrical-tracker
+**/__pycache__
+*avi
+*mp4
+*jpg
+*ply
+*txt
+*sh
+flame/generic_model.pkl
+flame/FLAME_masks
+
