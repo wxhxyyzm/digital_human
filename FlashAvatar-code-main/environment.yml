@@ -1,4 +1,4 @@
-name: FlashAvatar
+name: FlashDemo
 channels:
   - pytorch
   - conda-forge
