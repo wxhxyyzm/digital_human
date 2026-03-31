@@ -13,3 +13,12 @@ venv/
 
 # OS files
 .DS_Store
+
+# Large local artifacts (do not push)
+FlashAvatar-code-main/cuda_pkgs_116.tar.gz
+FlashAvatar-code-main/offline_cuda_pkgs/
+FlashAvatar-code-main/third_party/pytorch3d/build/
+FlashAvatar-code-main/example.zip
+HRAvatar/outputs/
+HRAvatar/preprocess/submodules/
+LivePortrait-main/libcudnn.so.8
